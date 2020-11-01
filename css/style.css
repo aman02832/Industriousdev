@@ -173,7 +173,7 @@ footer {
 	background-color: #111111;
 }
 .container.foot {
-	padding: 50px 0px;
+	/* padding: 50px 0px; */
 }
 .row-foot-boot-one h2 {
 	text-transform: uppercase;
@@ -300,6 +300,9 @@ footer {
 	}
 	.fa-bars {
 		font-size: 20px;
+	}
+	.row.bs-text {
+		margin: 0px;
 	}
 }
 
